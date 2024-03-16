@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageDownsizer", "ImageDownsizer\ImageDownsizer.csproj", "{A066B870-D7B7-4941-B122-51345F3E2321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A066B870-D7B7-4941-B122-51345F3E2321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A066B870-D7B7-4941-B122-51345F3E2321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A066B870-D7B7-4941-B122-51345F3E2321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A066B870-D7B7-4941-B122-51345F3E2321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC46E3B9-3CBE-484C-BB2E-6A345E775E97}
+	EndGlobalSection
+EndGlobal

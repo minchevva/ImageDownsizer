@@ -1,0 +1,35 @@
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.exe
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.deps.json
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.runtimeconfig.json
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.dll
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.pdb
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.Form1.resources
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.csproj.GenerateResource.cache
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.AssemblyInfoInputs.cache
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.AssemblyInfo.cs
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.csproj.CoreCompileInputs.cache
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.sourcelink.json
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.dll
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\refint\ImageDownsizer.dll
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.pdb
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.genruntimeconfig.cache
+C:\Users\Zlatomilla\Desktop\Image Downsizer\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ref\ImageDownsizer.dll
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.exe
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.deps.json
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.runtimeconfig.json
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.dll
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.pdb
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.Form1.resources
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.csproj.GenerateResource.cache
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.AssemblyInfoInputs.cache
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.AssemblyInfo.cs
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.csproj.CoreCompileInputs.cache
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.sourcelink.json
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.dll
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\refint\ImageDownsizer.dll
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.pdb
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.genruntimeconfig.cache
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ref\ImageDownsizer.dll
+C:\Users\Zlatomilla\Desktop\Niki\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.Properties.Resources.resources
